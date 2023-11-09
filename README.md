@@ -1,1 +1,1 @@
-Um site de receitas feito apenas usando HTML.
+Um site de receitas feito usando HTML e CSS.
